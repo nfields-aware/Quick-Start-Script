@@ -3,7 +3,7 @@
 Pre-Reqs:
 Install Python https://www.python.org/downloads/
 
-Install PyMuPDF
+Install PyMuPDF:
 pip3 install PyMuPDF
 
 Notes:
