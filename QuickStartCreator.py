@@ -1,3 +1,5 @@
+#Install PyMuPDF: pip3 install PyMuPDF
+
 import fitz  # PyMuPDF
 
 # Path to template pdf. Just keep the template in the same folder as this script.
