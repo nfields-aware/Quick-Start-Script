@@ -17,7 +17,7 @@ page = pdf_document[0]
 # User Inputs
 admin_portal_url = input("Admin Portal URL= ")
 password = input("Password= ")
-qr_url = input("QR-URL= ")
+qr_url = input("Sample Webapp URL= ")
 
 # Admin Portal Coordinates
 admin_x, admin_y, admin_width, admin_height = (52, 294, 400, 20)
